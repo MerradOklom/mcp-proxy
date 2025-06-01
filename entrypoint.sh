@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -a /app
+exec /main --config "$CONFIG_URL"
