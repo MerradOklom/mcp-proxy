@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /app/build/mcp-proxy --config "$CONFIG_URL"
+exec /app/main --config "$CONFIG_URL"
